@@ -1,2 +1,0 @@
-# testcode
-auto set test
